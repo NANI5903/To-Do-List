@@ -5,6 +5,7 @@ Assets: SVG icons representing tasks and priority levels in /icons_FEtask.
 Dependencies: Listed in package.json.
 API services: Found in api.js under services.
 
+
 kanban-board/
 ├── public/               # Public files (HTML, icons, manifest)
 │   ├── favicon.ico
