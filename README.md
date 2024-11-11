@@ -1,4 +1,4 @@
-**Structure:**\n
+**Structure:**
 React-based project files (App.js, index.js, etc.)\n
 Components: Board.js, Column.js, TicketCard.js, located in a /components directory.
 Assets: SVG icons representing tasks and priority levels in /icons_FEtask.
